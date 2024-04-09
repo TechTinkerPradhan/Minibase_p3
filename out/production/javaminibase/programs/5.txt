@@ -1,0 +1,10 @@
+A:char(25)	B:char(25)	C:int
+South_Dakota	West_Virginia	6
+Connecticut	Delaware	8
+New_Hampshire	Kansas	2
+Connecticut	Puerto_Rico	4
+Montana	District_of_Columbia	2
+Vermont	West_Virginia	8
+New_Hampshire	District_of_Columbia	6
+Kentucky	Singapore	1
+Connecticut	Indiana	2
